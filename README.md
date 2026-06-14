@@ -1,8 +1,8 @@
-# 🧠 MindMatch: Memory Card Game
+# Memory Card Game
 
 A sleek, interactive, browser-based memory card game built to test and improve short-term retention. Players flip pairs of matching cards against the clock or a move counter. 
 
-[👉 Live Demo Link]()
+[👉 Live Demo Link](memory-card-game-beta-sand.vercel.app)
 
 ---
 
